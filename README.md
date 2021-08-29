@@ -1,8 +1,8 @@
 # Video-streaming
 
-[![Current Version](https://img.shields.io/badge/version-1.0.7-green.svg)](https://github.com/soumanpaul/Developers-Profile-web-app)
+[![Current Version](https://img.shields.io/badge/version-1.0.7-green.svg)](https://github.com/cocoli89/Video_stream_webapp)
 [![build status](https://img.shields.io/travis/reduxjs/react-redux/master.svg?style=flat-square)](https://travis-ci.org/reduxjs/react-redux) [![npm version](https://img.shields.io/npm/v/react-redux.svg?style=flat-square)](https://www.npmjs.com/package/react-redux)
-[![GitHub Stars](https://img.shields.io/github/stars/soumanpaul/node-chat.svg)](https://github.com/soumanpaul/Developers-Profile-web-app/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/soumanpaul/node-chat.svg)](https://github.com/cocoli89/Video_stream_webapp/stargazers)
 [![GitHub Issues](https://img.shields.io/github/issues/soumanpaul/node-chat.svg)](https://github.com/IgorAntun/node-chat/issues)  
 
 
