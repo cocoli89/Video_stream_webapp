@@ -66,8 +66,8 @@ Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.co
 1. Clone or Download the repository
 
 	```
-	$ git clone https://github.com/soumanpaul/Developers-Profile-web-app
-	$ cd Developers-Profile-web-app
+	$ git clone https://github.com/cocoli89/Video_stream_webapp
+	$ cd Video_stream_webapp
 	```
 2. Install Dependencies
    + run this commend in project directory
@@ -189,7 +189,7 @@ I've written this script in my free time during my studies. If you find it usefu
 
 ## Contribute 
 
-Contribute by creating new issues, sending pull requests on Github or you can send an email at: paulchsouman@gmail.com
+Contribute by creating new issues, sending pull requests on Github or you can send an email at: hanstar1127@gmail.com
 
 ## License 
 Built under [MIT](http://www.opensource.org/licenses/mit-license.php) license.
@@ -210,6 +210,6 @@ Built under [MIT](http://www.opensource.org/licenses/mit-license.php) license.
 
 - Version: 1.0.0
 - License: MIT
-- Author: Souman Paul
+- Author: Cocoli
 
 
